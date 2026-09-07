@@ -17,11 +17,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
+      alternate: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
+      detail: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
+      packaging: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
+      lifestyle: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg"
     },
     fragranceFamily: "Woody",
     topNotes: ["Italian Bergamot", "Pink Pepper", "Bitter Orange"],
@@ -59,11 +59,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
+      alternate: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
+      detail: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
+      packaging: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
+      lifestyle: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg"
     },
     fragranceFamily: "Oriental",
     topNotes: ["Tellicherry Black Pepper", "Cardamom", "Saffron"],
@@ -101,11 +101,11 @@ window.MAELYS.products = [
       { ml: 100, price: 185 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
+      alternate: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
+      detail: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
+      packaging: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
+      lifestyle: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg"
     },
     fragranceFamily: "Citrus",
     topNotes: ["Bergamot", "Lemon", "Petitgrain"],
@@ -143,11 +143,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
+      alternate: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
+      detail: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
+      packaging: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
+      lifestyle: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg"
     },
     fragranceFamily: "Oriental",
     topNotes: ["Persian Saffron", "Cardamom", "Pink Pepper"],
@@ -185,11 +185,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/her.jpg",
+      alternate: "assets/images/her.jpg",
+      detail: "assets/images/her.jpg",
+      packaging: "assets/images/her.jpg",
+      lifestyle: "assets/images/her.jpg"
     },
     fragranceFamily: "Floral",
     topNotes: ["Pink Pepper", "Bergamot", "Pear"],
@@ -227,11 +227,11 @@ window.MAELYS.products = [
       { ml: 100, price: 175 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
+      alternate: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
+      detail: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
+      packaging: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
+      lifestyle: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg"
     },
     fragranceFamily: "Fresh",
     topNotes: ["Sicilian Lemon", "Grapefruit", "Basil"],
@@ -269,11 +269,11 @@ window.MAELYS.products = [
       { ml: 100, price: 310 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/othe.jpg",
+      alternate: "assets/images/othe.jpg",
+      detail: "assets/images/othe.jpg",
+      packaging: "assets/images/othe.jpg",
+      lifestyle: "assets/images/othe.jpg"
     },
     fragranceFamily: "Floral",
     topNotes: ["Pink Grapefruit", "Mandarin", "Blackcurrant"],
@@ -310,11 +310,11 @@ window.MAELYS.products = [
       { ml: 50, price: 350 }
     ],
     images: {
-      main: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80&auto=format&fit=crop",
-      alternate: "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&q=80&auto=format&fit=crop",
-      detail: "https://images.unsplash.com/photo-1595425959229-0b67d79c6193?w=800&q=80&auto=format&fit=crop",
-      packaging: "https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=800&q=80&auto=format&fit=crop",
-      lifestyle: "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?w=800&q=80&auto=format&fit=crop"
+      main: "assets/images/g.jpg",
+      alternate: "assets/images/g.jpg",
+      detail: "assets/images/g.jpg",
+      packaging: "assets/images/g.jpg",
+      lifestyle: "assets/images/g.jpg"
     },
     fragranceFamily: "Oriental",
     topNotes: ["Tobacco Leaf", "Cognac", "Dark Honey"],
