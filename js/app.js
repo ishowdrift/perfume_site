@@ -143,10 +143,10 @@ window.MAELYS.App = (function () {
     }
 
     var collectionImages = [
-      'assets/images/collection-signature.jpg',
-      'assets/images/collection-nocturne.jpg',
-      'assets/images/collection-essentials.jpg',
-      'assets/images/collection-limited.jpg'
+      'assets/images/collection-signature-webp-min.webp',
+      'assets/images/collection-nocture-webp-min.webp',
+      'assets/images/collection-essentials-webp-min.webp',
+      'assets/images/collection-limited-webp-min.webp'
     ];
     var collectionsHtml = '';
     for (var j = 0; j < collections.length; j++) {
@@ -458,10 +458,10 @@ window.MAELYS.App = (function () {
   function renderCollections() {
     var collections = window.MAELYS.collections || [];
     var collectionImages = [
-      'assets/images/collection-signature.jpg',
-      'assets/images/collection-nocturne.jpg',
-      'assets/images/collection-essentials.jpg',
-      'assets/images/collection-limited.jpg'
+      'assets/images/collection-signature-webp-min.webp',
+      'assets/images/collection-nocture-webp-min.webp',
+      'assets/images/collection-essentials-webp-min.webp',
+      'assets/images/collection-limited-webp-min.webp'
     ];
 
     var cardsHtml = '';
@@ -571,7 +571,7 @@ window.MAELYS.App = (function () {
     return '<section class="page-about page-enter">' +
       '<div class="about-hero" data-reveal>' +
         '<div class="about-hero-bg" style="background:linear-gradient(135deg, #1a1714 0%, #0d0c0b 50%, #151311 100%);">' +
-          '<img src="assets/images/collection-signature.jpg" alt="The House of MAËLYS" style="width:100%;height:100%;object-fit:cover;opacity:0.35;" loading="eager">' +
+          '<img src="assets/images/collection-signature-webp-min.webp" alt="The House of MAËLYS" style="width:100%;height:100%;object-fit:cover;opacity:0.35;" loading="eager">' +
         '</div>' +
         '<div class="about-hero-overlay"></div>' +
         '<div class="about-hero-content">' +
