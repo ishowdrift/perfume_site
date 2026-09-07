@@ -17,11 +17,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
-      alternate: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
-      detail: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
-      packaging: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg",
-      lifestyle: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5.jpg"
+      main: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5-webp-min.webp",
+      alternate: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5-webp-min.webp",
+      detail: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5-webp-min.webp",
+      packaging: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5-webp-min.webp",
+      lifestyle: "assets/images/Gemini_Generated_Image_nur5ynnur5ynnur5-webp-min.webp"
     },
     fragranceFamily: "Woody",
     topNotes: ["Italian Bergamot", "Pink Pepper", "Bitter Orange"],
@@ -59,11 +59,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
-      alternate: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
-      detail: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
-      packaging: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg",
-      lifestyle: "assets/images/Gemini_Generated_Image_6j9ts26j9ts26j9t.jpg"
+      main: "assets/images/Gemini_Generated_Image_orc6pkorc6pkorc6-webp-min.webp",
+      alternate: "assets/images/Gemini_Generated_Image_orc6pkorc6pkorc6-webp-min.webp",
+      detail: "assets/images/Gemini_Generated_Image_orc6pkorc6pkorc6-webp-min.webp",
+      packaging: "assets/images/Gemini_Generated_Image_orc6pkorc6pkorc6-webp-min.webp",
+      lifestyle: "assets/images/Gemini_Generated_Image_orc6pkorc6pkorc6-webp-min.webp"
     },
     fragranceFamily: "Oriental",
     topNotes: ["Tellicherry Black Pepper", "Cardamom", "Saffron"],
@@ -101,11 +101,11 @@ window.MAELYS.products = [
       { ml: 100, price: 185 }
     ],
     images: {
-      main: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
-      alternate: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
-      detail: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
-      packaging: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg",
-      lifestyle: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re.jpg"
+      main: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re-webp-min.webp",
+      alternate: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re-webp-min.webp",
+      detail: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re-webp-min.webp",
+      packaging: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re-webp-min.webp",
+      lifestyle: "assets/images/Gemini_Generated_Image_i3reeti3reeti3re-webp-min.webp"
     },
     fragranceFamily: "Citrus",
     topNotes: ["Bergamot", "Lemon", "Petitgrain"],
@@ -143,11 +143,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
-      alternate: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
-      detail: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
-      packaging: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg",
-      lifestyle: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l.jpg"
+      main: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l-webp-min.webp",
+      alternate: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l-webp-min.webp",
+      detail: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l-webp-min.webp",
+      packaging: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l-webp-min.webp",
+      lifestyle: "assets/images/Gemini_Generated_Image_9l8ljx9l8ljx9l8l-webp-min.webp"
     },
     fragranceFamily: "Oriental",
     topNotes: ["Persian Saffron", "Cardamom", "Pink Pepper"],
@@ -185,11 +185,11 @@ window.MAELYS.products = [
       { ml: 100, price: 350 }
     ],
     images: {
-      main: "assets/images/her.jpg",
-      alternate: "assets/images/her.jpg",
-      detail: "assets/images/her.jpg",
-      packaging: "assets/images/her.jpg",
-      lifestyle: "assets/images/her.jpg"
+      main: "assets/images/her-webp-min.webp",
+      alternate: "assets/images/her-webp-min.webp",
+      detail: "assets/images/her-webp-min.webp",
+      packaging: "assets/images/her-webp-min.webp",
+      lifestyle: "assets/images/her-webp-min.webp"
     },
     fragranceFamily: "Floral",
     topNotes: ["Pink Pepper", "Bergamot", "Pear"],
@@ -227,11 +227,11 @@ window.MAELYS.products = [
       { ml: 100, price: 175 }
     ],
     images: {
-      main: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
-      alternate: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
-      detail: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
-      packaging: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg",
-      lifestyle: "assets/images/Gemini_Generated_Image_5rjeyw5rjeyw5rje.jpg"
+      main: "assets/images/Gemini_Generated_Image_hv0r6hv0r6hv0r6h-webp-min.webp",
+      alternate: "assets/images/Gemini_Generated_Image_hv0r6hv0r6hv0r6h-webp-min.webp",
+      detail: "assets/images/Gemini_Generated_Image_hv0r6hv0r6hv0r6h-webp-min.webp",
+      packaging: "assets/images/Gemini_Generated_Image_hv0r6hv0r6hv0r6h-webp-min.webp",
+      lifestyle: "assets/images/Gemini_Generated_Image_hv0r6hv0r6hv0r6h-webp-min.webp"
     },
     fragranceFamily: "Fresh",
     topNotes: ["Sicilian Lemon", "Grapefruit", "Basil"],
@@ -269,11 +269,11 @@ window.MAELYS.products = [
       { ml: 100, price: 310 }
     ],
     images: {
-      main: "assets/images/othe.jpg",
-      alternate: "assets/images/othe.jpg",
-      detail: "assets/images/othe.jpg",
-      packaging: "assets/images/othe.jpg",
-      lifestyle: "assets/images/othe.jpg"
+      main: "assets/images/othe-webp-min.webp",
+      alternate: "assets/images/othe-webp-min.webp",
+      detail: "assets/images/othe-webp-min.webp",
+      packaging: "assets/images/othe-webp-min.webp",
+      lifestyle: "assets/images/othe-webp-min.webp"
     },
     fragranceFamily: "Floral",
     topNotes: ["Pink Grapefruit", "Mandarin", "Blackcurrant"],
@@ -310,11 +310,11 @@ window.MAELYS.products = [
       { ml: 50, price: 350 }
     ],
     images: {
-      main: "assets/images/g.jpg",
-      alternate: "assets/images/g.jpg",
-      detail: "assets/images/g.jpg",
-      packaging: "assets/images/g.jpg",
-      lifestyle: "assets/images/g.jpg"
+      main: "assets/images/g-webp-min.webp",
+      alternate: "assets/images/g-webp-min.webp",
+      detail: "assets/images/g-webp-min.webp",
+      packaging: "assets/images/g-webp-min.webp",
+      lifestyle: "assets/images/g-webp-min.webp"
     },
     fragranceFamily: "Oriental",
     topNotes: ["Tobacco Leaf", "Cognac", "Dark Honey"],
