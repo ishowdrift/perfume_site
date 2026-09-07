@@ -35,6 +35,7 @@
   margin-bottom: var(--space-lg);
   display: block;
   text-decoration: none;
+  font-feature-settings: "salt" 0, "swsh" 0, "calt" 0;
 }
 
 .footer-tagline,
