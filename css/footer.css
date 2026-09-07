@@ -31,7 +31,6 @@
   font-size: 1.5rem;
   font-weight: var(--weight-regular);
   letter-spacing: 0.15em;
-  text-transform: uppercase;
   color: var(--color-text);
   margin-bottom: var(--space-lg);
   display: block;

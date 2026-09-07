@@ -571,7 +571,7 @@ window.MAELYS.App = (function () {
     return '<section class="page-about page-enter">' +
       '<div class="about-hero" data-reveal>' +
         '<div class="about-hero-bg" style="background:linear-gradient(135deg, #1a1714 0%, #0d0c0b 50%, #151311 100%);">' +
-          '<img src="https://images.unsplash.com/photo-1592945552960-2bb4f3f6d707?w=1920&q=80&auto=format&fit=crop" alt="The House of MAËLYS" style="width:100%;height:100%;object-fit:cover;opacity:0.35;" loading="eager">' +
+          '<img src="assets/images/collection-signature.jpg" alt="The House of MAËLYS" style="width:100%;height:100%;object-fit:cover;opacity:0.35;" loading="eager">' +
         '</div>' +
         '<div class="about-hero-overlay"></div>' +
         '<div class="about-hero-content">' +
