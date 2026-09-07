@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+# Security headers
+Header always set X-Content-Type-Options nosniff
+Header always set X-Frame-Options SAMEORIGIN
+Header always set X-XSS-Protection "1; mode=block"
+
+# Cache static assets
+<FilesMatch "\.(css|js|jpg|jpeg|png|gif|webp|svg|woff|woff2)$">
+Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>

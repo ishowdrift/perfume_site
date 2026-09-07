@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /account
+Disallow: /checkout
+Disallow: /search?
+
+Sitemap: https://maelys-parfum.com/sitemap.xml

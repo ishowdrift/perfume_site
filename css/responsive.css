@@ -1,0 +1,283 @@
+/* ==========================================================================
+   MAËLYS — Responsive Breakpoints
+   Mobile First Approach
+   ========================================================================== */
+
+/* ── Base (0 — 479px) ────────────────────────────────────────────────────── */
+/* Applied by default from other files */
+
+.container {
+  padding-left: var(--space-md);
+  padding-right: var(--space-md);
+}
+
+.section-header {
+  padding: 0 var(--space-md);
+}
+
+/* ── Small (480px+) ──────────────────────────────────────────────────────── */
+@media (min-width: 480px) {
+  :root {
+    --container-padding: var(--space-lg);
+  }
+
+  .products-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-lg);
+  }
+
+  .ingredients-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .values-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .contact-form-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ── Medium (768px+) ─────────────────────────────────────────────────────── */
+@media (min-width: 768px) {
+  :root {
+    --container-padding: var(--space-xl);
+    --header-height: 80px;
+    --header-height-scrolled: 64px;
+  }
+
+  .products-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2xl);
+  }
+
+  .ingredients-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .values-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-3xl);
+  }
+
+  .story-layout {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-3xl);
+  }
+
+  .collections-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-xl);
+  }
+
+  .journal-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-2xl);
+  }
+
+  .discovery-layout {
+    grid-template-columns: 240px 1fr;
+    gap: var(--space-3xl);
+  }
+
+  .shop-layout {
+    grid-template-columns: 240px 1fr;
+    gap: var(--space-3xl);
+  }
+
+  .product-layout {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-3xl);
+  }
+
+  .product-gallery {
+    position: sticky;
+    top: calc(var(--header-height) + var(--space-xl));
+  }
+
+  .contact-layout {
+    grid-template-columns: 1fr 1.2fr;
+    gap: var(--space-4xl);
+  }
+
+  .footer-nav-columns {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ── Large (1024px+) ─────────────────────────────────────────────────────── */
+@media (min-width: 1024px) {
+  :root {
+    --container-padding: var(--space-2xl);
+  }
+
+  .products-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .ingredients-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .values-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .collections-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .journal-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .discovery-layout {
+    grid-template-columns: 260px 1fr;
+    gap: var(--space-4xl);
+  }
+
+  .shop-layout {
+    grid-template-columns: 260px 1fr;
+    gap: var(--space-4xl);
+  }
+
+  .footer-nav-columns {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ── Extra Large (1440px+) ───────────────────────────────────────────────── */
+@media (min-width: 1440px) {
+  :root {
+    --container-padding: var(--space-3xl);
+  }
+
+  .products-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-2xl);
+  }
+
+  .collections-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-2xl);
+  }
+
+  .journal-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-3xl);
+  }
+
+  .product-layout {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-4xl);
+    max-width: 1200px;
+  }
+
+  .story-layout {
+    gap: var(--space-4xl);
+  }
+}
+
+/* ── Ultra Wide (1920px+) ────────────────────────────────────────────────── */
+@media (min-width: 1920px) {
+  :root {
+    --container-max: 1600px;
+  }
+
+  .hero-title {
+    font-size: 8rem;
+  }
+}
+
+/* ── Responsive Typography ───────────────────────────────────────────────── */
+@media (max-width: 479px) {
+  .hero-title {
+    font-size: clamp(2.25rem, 10vw, 3rem);
+  }
+
+  .section-title {
+    font-size: clamp(1.75rem, 5vw, 2.25rem);
+  }
+
+  .mobile-nav-link {
+    font-size: var(--text-3xl);
+  }
+
+  .footer-brand-logo {
+    font-size: 1.25rem;
+  }
+
+  .search-overlay-input {
+    font-size: var(--text-2xl);
+  }
+}
+
+/* ── Mobile Navigation Visibility ─────────────────────────────────────────── */
+@media (min-width: 1024px) {
+  .mobile-nav {
+    display: none !important;
+  }
+}
+
+/* ── Responsive Product Page ──────────────────────────────────────────────── */
+@media (min-width: 768px) {
+  .product-gallery {
+    position: sticky;
+    top: calc(var(--header-height) + var(--space-xl));
+    align-self: start;
+  }
+}
+
+/* ── Responsive Tables ────────────────────────────────────────────────────── */
+@media (max-width: 767px) {
+  .product-meta-row {
+    flex-direction: column;
+    gap: var(--space-2xs);
+  }
+}
+
+/* ── Responsive Footer ────────────────────────────────────────────────────── */
+@media (max-width: 767px) {
+  .footer-newsletter-form {
+    flex-direction: column;
+  }
+
+  .footer-newsletter-btn {
+    width: 100%;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-legal {
+    justify-content: center;
+  }
+}
+
+/* ── Responsive Breadcrumbs ──────────────────────────────────────────────── */
+@media (max-width: 479px) {
+  .breadcrumbs {
+    font-size: 10px;
+    flex-wrap: wrap;
+  }
+}
+
+/* ── Responsive Shop ─────────────────────────────────────────────────────── */
+@media (max-width: 767px) {
+  .shop-toolbar {
+    flex-wrap: wrap;
+  }
+
+  .discovery-layout,
+  .shop-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .discovery-sidebar,
+  .shop-sidebar {
+    display: none;
+  }
+}
